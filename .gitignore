@@ -1,0 +1,7 @@
+packages/
+TestResults/
+testTask_mindBox/obj/
+testTask_mindBox/bin
+testTask_mindBox_Tests/obj
+testTask_mindBox_Tests/bin
+/.vs
